@@ -8,6 +8,11 @@
     npm i mongodb@2.2.5 --save
     ```
 
+2. Mongoose Version 4.5.9
+    ```bash
+    npm i mongoose@4.5.9 --save
+    ```
+
 ### Node.js MongoDB Driver API
 
 Link Documentation :
